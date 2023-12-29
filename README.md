@@ -1,4 +1,6 @@
 # **OH SHINT! Welcome Aboard**
+Credit to: https://github.com/OhShINT/ohshint.gitbook.io
+- **I have been following and learning from OhShINT, his Twitter is also full of useful OSINT tips. Recommended for OSINT community.**         
 
 ![donvito](Contact/donvito.png)
 
